@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="todo26.console/todo26.console.csproj" />
+  <Project Path="todo26.data/todo26.data.csproj" />
+  <Project Path="todo26.web/todo26.web.csproj" />
+</Solution>
