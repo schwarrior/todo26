@@ -17,5 +17,5 @@ public class Db : DbContext
 		optionsBuilder.UseSqlServer(ConnectionString);
 	}
 
-	// public DbSet<Template> Templates { get; set; }
+	public DbSet<Task> Tasks { get; set; }
 }

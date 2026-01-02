@@ -11,4 +11,6 @@ go
 insert dbo.Test([Name],[Value])
 values('Hello', 'World');
 
-select * from dbo.Test;
+select top (1) [Name] + ' ' + [Value] as TestValue from dbo.Test;
+
+select * from Tasks where CompleteDate is null;
