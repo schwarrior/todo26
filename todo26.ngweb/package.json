@@ -1,6 +1,6 @@
 {
-  "name": "todo.ngweb",
-  "version": "0.0.0",
+  "name": "todo26.ngweb",
+  "version": "0.1.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
