@@ -23,8 +23,8 @@ Originally created from template with `ng new`.
 Then built up into the Angular First App (Homes Search app) using tutorial:
 https://v19.angular.dev/tutorials/first-app
 
-Current location in tutorial:
-https://v19.angular.dev/tutorials/first-app/03-HousingLocation
+Current location in tutorial: 
+https://v19.angular.dev/tutorials/first-app/04-interfaces
 
 
 Then adapted into task management app and integrated with ASP.NET MVC app.
